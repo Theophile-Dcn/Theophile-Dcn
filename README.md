@@ -1,14 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&random=false&width=435&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BC;I%E2%80%99m+Th%C3%A9ophile+Ducournau+%F0%9F%92%BB%F0%9F%96%B1%EF%B8%8F;Nice+to+meet+you)](https://git.io/typing-svg)
+<h1 align="center">
+  <br>
+  <a href="https://github.com/ThéophileDucournau"><img src="./public/photoProfil.jpg" alt="ThéophileDucournau" width="200"></a>
+  <br>
+  <br>
+  ThéophileDucournau
+  <br>
+  <br>
+</h1>
 
-### About me  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=4000&pause=1000&random=false&width=500&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BC;I'm+a+fullstack+JS+developer+;Nice+to+meet+you)](https://git.io/typing-svg)
 
-Actuellement en recherche d'une nouvelle opportunité dans le développement web, je me suis consacré ces deux dernières années à diverses formations pour acquérir des compétences solides. 🌟
+<h4 align="center">
 
-Récemment, j'ai obtenu le titre professionnel de développeur web et web mobile fullstack JavaScript (niveau V), ce qui m'a permis d'apprendre à apprendre, de peaufiner mes compétences et de réaliser des projets dans un cadre professionnel en méthode agile. 🚀
+<a href="https://www.linkedin.com/in/th%C3%A9ophile-ducournau-a4a0891a0/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/th%C3%A9ophile-ducournau-a4a0891a0/" alt="ThéophileDucournau"></a>
+<a href="https://github.com/ThéophileDucournau"><img src="https://img.shields.io/badge/-GitHub-black.svg?style=flat-square&logo=github&logoColor=white&link=https://github.com/ThéophileDucournau" alt="ThéophileDucournau"></a>
 
-En ce moment, je me forme également à TypeScript et Next.js et je serais désireux de pouvoir participer à des projets mobiles avec React Native. 📱
+</h4>
 
-Vous pouvez consulter mon portfolio personnel en cliquant sur ce [lien](#). 🌐
-
-
-
+<p align="center">
+Actuellement en recherche d'une nouvelle opportunité dans le développement web, je me suis consacré ces deux dernières années à diverses formations pour acquérir des compétences solides.
+</p>
+<br>
+<p align="center">
+🌟 Récemment, j'ai obtenu le titre professionnel de développeur web et web mobile fullstack JavaScript (niveau V), ce qui m'a permis d'apprendre à apprendre, de peaufiner mes compétences et de réaliser des projets dans un cadre professionnel en méthode agile. 🚀
+</p>
