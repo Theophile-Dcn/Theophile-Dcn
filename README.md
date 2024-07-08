@@ -1,23 +1,21 @@
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <br>
-  <a href="https://github.com/ThéophileDucournau"><img src="./public/photoProfil.jpg" alt="ThéophileDucournau" width="200" style="border-radius:50%;"></a>
-  <br>
-  <br>
   <span style="font-size: 2em;">Théophile Ducournau</span>
   <br>
   <br>
   <div style="display: flex; justify-content: center;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&center=true&vCenter=false&random=false&width=500&lines=Hello+there++%F0%9F%91%8B%F0%9F%8F%BC;I%E2%80%99m+a+fullstack+js+developer++%F0%9F%A7%91%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Nice+to+meet+you++%F0%9F%A4%9D%F0%9F%8F%BC" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Hello+there++%F0%9F%91%8B%F0%9F%8F%BC;I%E2%80%99m+a+fullstack+js+developer++%F0%9F%A7%91%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Nice+to+meet+you++%F0%9F%A4%9D%F0%9F%8F%BC" alt="Typing SVG" />
     </a>
   </div>
   <br>
 </div>
 
-<div style="display: flex; justify-content: center;margin: 1em;">
-  <a href="https://www.linkedin.com/in/th%C3%A9ophile-ducournau-a4a0891a0/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/th%C3%A9ophile-ducournau-a4a0891a0/" alt="Théophile Ducournau"></a>
-  <a href="https://github.com/ThéophileDucournau"><img src="https://img.shields.io/badge/-GitHub-black.svg?style=flat-square&logo=github&logoColor=white&link=https://github.com/ThéophileDucournau" alt="ThéophileDucournau">
-  </a>
+<div style="display: flex; justify-content: center;margin: 1em; gap: 1em;">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" alt="Théophile Ducournau"></a>
+
+<a href="https://theophile-ducournau.com/"><img src="https://img.shields.io/badge/-Portfolio-black.svg?style=flat-square&logo=Portfolio&logoColor=white&link=https://theophile-ducournau.com/" alt="ThéophileDucournau"></a>
+
 </div>
 
 <p align="center">
@@ -43,9 +41,9 @@ Actuellement en recherche d'une nouvelle opportunité dans le développement web
 <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white" alt="Docker"></a>
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
-<a href="https://github.com"><img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=git&logoColor=white" alt="Gitignore"></a>
+<a href="https://github.com"><img src="https://img.shields.io/badge/-Github-blue?style=flat-square&logo=git&logoColor=white" alt="Gitignore"></a>
 
 </div>
 <h2 align="center">
