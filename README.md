@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Theophile-Dcn/Theophile-Dcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello there;Nice to meet you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&random=false&width=435&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BC;I%E2%80%99m+Th%C3%A9ophile+Ducournau+%F0%9F%92%BB%F0%9F%96%B1%EF%B8%8F;Nice+to+meet+you)](https://git.io/typing-svg)
