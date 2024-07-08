@@ -30,20 +30,20 @@ Actuellement en recherche d'une nouvelle opportunité dans le développement web
 🔥 Languages & Frameworks & Tools & Abilities 🔥
 </h2>
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; justify-content: center; ">
 
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
-<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"></a>
-<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white" alt="React"></a>
-<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"></a>
-<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express.js-blue?style=flat-square&logo=express&logoColor=white" alt="Express.js"></a>
-<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white" alt="Docker"></a>
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
-<a href="https://github.com"><img src="https://img.shields.io/badge/-Github-blue?style=flat-square&logo=git&logoColor=white" alt="Gitignore"></a>
+<img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/-Express.js-blue?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/-Github-blue?style=flat-square&logo=git&logoColor=white" alt="Gitignore">
 
 </div>
 <h2 align="center">
