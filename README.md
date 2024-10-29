@@ -42,7 +42,7 @@ Actuellement en recherche d'une nouvelle opportunité dans le développement web
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Theophile-Dcn&theme=dark" alt="GitHub Streak">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Theophile-dcn&theme=dark&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
   </a>
 </div>
 <div align="center">
